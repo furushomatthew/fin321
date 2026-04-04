@@ -1,4 +1,3 @@
-[1fx-receivable-hedge-memo.md](https://github.com/user-attachments/files/26479455/1fx-receivable-hedge-memo.md)
 # FX Receivable Exposure & Hedging Strategy – EUR/USD Decision Memo
 
 **Created by:** Matthew Furusho
